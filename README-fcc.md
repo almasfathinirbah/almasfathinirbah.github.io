@@ -10,31 +10,31 @@ Created as a showcase project from Bootcamp Data Science Dibimbing. Simulated cr
 * This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000   customers doing transactions with a pool of 800 merchants.
 * Source Data: https://www.kaggle.com/kartik2112/fraud-detection
 * Data Related to Customer Account Information
-	* First name : customer's first name
-	* Last name : customer's last name
-	* Date of birth : customer's date of birth
-	* Trans date trans time : customer's trans date trans time
-	* CC number : customer's credit card number
-	* Amount : amount of transaction
-	* Trans number : transaction number
-	* Unix time : unique time number 
+	* `First name` : customer's first name
+	* `Last name` : customer's last name
+	* `Date of birth` : customer's date of birth
+	* `Trans date trans time` : customer's trans date trans time
+	* `CC number` : customer's credit card number
+	* `Amount` : amount of transaction
+	* `Trans number` : transaction number
+	* `Unix time` : unique time number 
 * Data Related to Customer Demographic Information
-	* Gender : customer's gender 
-	* Street : customer's street 
-	* Ciy : customer's city
-	* State : customer's state
-	* Zip : customer's zip
-	* Lat : customer's latitude address
-	* Long : customer's longitude address
-	* City pop : customer's city population
-	* Job : customer's job
+	* `Gender` : customer's gender 
+	* `Street` : customer's street 
+	* `Ciy` : customer's city
+	* `State` : customer's state
+	* `Zip` : customer's zip
+	* `Lat` : customer's latitude address
+	* `Long` : customer's longitude address
+	* `City pop` : customer's city population
+	* `Job` : customer's job
 * Data Related to Merchant Information
-	* Merchant : merchant name
-	* Category : merchant's category
-	* Merchant latitude : merchant's latitude address
-	* Merchant longitude : merchant's longitude address
+	* `Merchant` : merchant name
+	* `Category` : merchant's category
+	* `Merchant latitude` : merchant's latitude address
+	* `Merchant longitude` : merchant's longitude address
 Data Related to Fraud Information
-	* Is fraud : transaction clasification wether fraud or not
+    * `Is fraud` : transaction clasification wether fraud or not
 
 ## **Data preparation**
 * Code Used:

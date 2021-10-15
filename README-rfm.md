@@ -17,23 +17,23 @@
 
 * Data Dictionary:
 
-* event_time: Time when event happened at (in UTC).
+* `event_time`: Time when event happened at (in UTC).
 
-* event_type: Only one kind of event: purchase.
+* `event_type`: Only one kind of event: purchase.
 
-* product_id: ID of a product
+* `product_id`: ID of a product
 
-* category_id: Product's category ID
+* `category_id`: Product's category ID
 
-* category_code: Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories.
+* `category_code`: Product's category taxonomy (code name) if it was possible to make it. Usually present for meaningful categories and skipped for different kinds of accessories.
 
-* brand: Downcased string of brand name. Can be missed.
+* `brand`: Downcased string of brand name. Can be missed.
 
-* price: Float price of a product. Present.
+* `price`: Float price of a product. Present.
 
-* user_id: Permanent user ID.
+* `user_id`: Permanent user ID.
 
-* user_session: Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause.
+* `user_session`: Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause.
 
 ## **Data preparation**
 

@@ -21,42 +21,42 @@ Created as a final project from Bootcamp Data Science Dibimbing. This dataset is
 * This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the most recent dataset you'll find information about businesses across 8 metropolitan areas in the USA and Canada. 
 * Source Data: https://www.kaggle.com/yelp-dataset/yelp-dataset
 * Sub dataset related to Yelp Business Information
-	* Business id : business merchant id
-	* Name : business merchant name
-	* Address : business merchant address
-	* City : business merchant city
-	* State : business merchant state
-	* Postal code : business merchant postal code
-	* Latitude : business merchant latitude
-	* Longitude : business merchant longitude
-	* Stars : business merchant stars
-	* Review count : business merchant review count
-	* Is open : business merchant whether open or not
-	* Attribute : business merchant attribute 
+	* `Business id` : business merchant id
+	* `Name` : business merchant name
+	* `Address` : business merchant address
+	* `City` : business merchant city
+	* `State` : business merchant state
+	* `Postal code` : business merchant postal code
+	* `Latitude` : business merchant latitude
+	* `Longitude` : business merchant longitude
+	* `Stars` : business merchant stars
+	* `Review count` : business merchant review count
+	* `Is open` : business merchant whether open or not
+	* `Attribute` : business merchant attribute 
 * Sub dataset related to Yelp Review Information
-	* Review id : business review id  
-	* User id : business customer id 
-	* Stars : business review stars
-	* Useful : business review useful
-	* Funny : business review funny
-	* Cool : business review cool
-	* Text : business review text
+	* `Review id` : business review id  
+	* `User id` : business customer id 
+	* `Stars` : business review stars
+	* `Useful` : business review useful
+	* `Funny` : business review funny
+	* `Cool` : business review cool
+	* `Text` : business review text
 * Sub dataset related to Tips Information
-	* User id : business customer id
-	* Business id : business merchant id
-	* Text : business tips text
-	* Date : business tips date
-	* Compliment count : business tips compliment count
+	* `User id` : business customer id
+	* `Business id` : business merchant id
+	* `Text` : business tips text
+	* `Date` : business tips date
+	* `Compliment count` : business tips compliment count
 * Sub dataset related to Customer Information
-  	* User id : business customer id
-  	* Name : customer name
-  	* Review Count : review customer count
-  	* Yelping since : first using yelp customer
-  	* Useful : business review useful
-  	* Funny : business review funny
-  	* Cool : business review cool
-  	* Elite : customer using years
-  	* Friends : friends customer name
+  	* `User id` : business customer id
+  	* `Name` : customer name
+  	* `Review Count` : review customer count
+  	* `Yelping since` : first using yelp customer
+  	* `Useful` : business review useful
+  	* `Funny` : business review funny
+  	* `Cool` : business review cool
+  	* `Elite` : customer using years
+  	* `Elite` : friends customer name
 
 ## **Data preparation**
 * Code Used:
