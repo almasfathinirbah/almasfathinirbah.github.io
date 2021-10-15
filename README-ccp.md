@@ -77,7 +77,7 @@ In addition to using the confusion matrix, we can form the ROC curve along with 
 
 ![image](https://user-images.githubusercontent.com/85482667/137407976-4d372cbc-8357-4ec6-beca-734915fd4264.png)
 
-Nilai AUC di atas menyatakan bahwa performa model kita sebesar **85,13%** dalam memisahkan distribusi kelas positif `Churn` dengan negatif pada data test.
+The AUC value above indicates that our model's performance is **81.64%** in separating the positive class distribution of `Churn` from the negative on the test data.
 
 ## *Conclusion*
 
