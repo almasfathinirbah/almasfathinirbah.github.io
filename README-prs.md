@@ -49,14 +49,14 @@ Created as a final project from Bootcamp Data Science Dibimbing. This dataset is
 	* `Compliment count` : business tips compliment count
 * Sub dataset related to Customer Information
 	* `User id` : business customer id
-  	* `Name` : customer name
-  	* `Review Count` : review customer count
-  	* `Yelping since` : first using yelp customer
-  	* `Useful` : business review useful
-  	* `Funny` : business review funny
-  	* `Cool` : business review cool
-  	* `Elite` : customer using years
-  	* `Elite` : friends customer name
+	* `Name` : customer name
+	* `Review Count` : review customer count
+	* `Yelping since` : first using yelp customer
+	* `Useful` : business review useful
+	* `Funny` : business review funny
+	* `Cool` : business review cool
+	* `Elite` : customer using years
+	* `Elite` : friends customer name
 
 ## **Data preparation**
 * Code Used:
