@@ -1,4 +1,4 @@
-# **E-Commerce Behavior Data from Multi Category Store with Python**
+# **RFM Analysis - E-Commerce Behavior Data from Multi Category Store with Python**
 
 ## **Business Understanding**
 
