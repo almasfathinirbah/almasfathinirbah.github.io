@@ -10,11 +10,12 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #fff;
+  background-color: #728394;
 }
 
 a {
-  color: #0563bb;
+  color: #000;
   text-decoration: none;
 }
 
@@ -297,7 +298,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.25);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -435,7 +436,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #0563bb;
+  color: #45505b;
   line-height: 0;
 }
 
@@ -545,13 +546,13 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #45505b;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #f7f8f9;
+  background: rgb(170, 183, 195);
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -947,7 +948,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  /*background: #fff;*/
 }
 
 .contact .info i {
@@ -976,7 +977,7 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #728394;
+  color: #fff;
 }
 
 .contact .info .email,
@@ -993,7 +994,7 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  background: #fff;
+  /*background: #fff;*/
 }
 
 .contact .php-email-form .form-group {
